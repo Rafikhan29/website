@@ -395,3 +395,4 @@ Verbosity | Description
 * See more community [kubectl cheatsheets](https://github.com/dennyzhang/cheatsheet-kubernetes-A4).
 
 {{% /capture %}}
+## Local
